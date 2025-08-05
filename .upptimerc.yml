@@ -8,7 +8,7 @@ sites:
   - name: Investran Web API - Reference Data
     url: https://investranweb-liveuat-eu.fiscloudservices.com/api/referencedata/v1/swagger/index.html
   - name: Fake Site
-  url: https://thisdoesnotexist.example
+    url: https://thisdoesnotexist.example
 notifications:
   email:
     smtp:
