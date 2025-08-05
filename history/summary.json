@@ -22,19 +22,19 @@
     "url": "https://investranweb-liveuat-eu.fiscloudservices.com/api/referencedata/v1/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/investranweb-liveuat-eu.fiscloudservices.com.ico",
     "slug": "investran-web-api-reference-data",
-    "status": "down",
-    "uptime": "82.60%",
-    "uptimeDay": "82.60%",
-    "uptimeWeek": "82.60%",
-    "uptimeMonth": "82.60%",
-    "uptimeYear": "82.60%",
-    "time": 509,
-    "timeDay": 509,
-    "timeWeek": 509,
-    "timeMonth": 509,
-    "timeYear": 509,
+    "status": "up",
+    "uptime": "44.79%",
+    "uptimeDay": "44.79%",
+    "uptimeWeek": "44.79%",
+    "uptimeMonth": "44.79%",
+    "uptimeYear": "44.79%",
+    "time": 710,
+    "timeDay": 710,
+    "timeWeek": 710,
+    "timeMonth": 710,
+    "timeYear": 710,
     "dailyMinutesDown": {
-      "2025-08-05": 4
+      "2025-08-05": 22
     }
   }
 ]
