@@ -17,7 +17,7 @@ notifications:
       secure: false
       auth:
         user: bhattjay91@gmail.com
-        pass: wveq psas beia iita  # NO SPACES
+        pass: wveqpsasbeiaiita
     to: jay.bhatt@cscgfm.com
     from: bhattjay91@gmail.com
 status-website:
