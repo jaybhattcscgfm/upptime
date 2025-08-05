@@ -19,7 +19,7 @@ notifications:
         user: bhattjay91@gmail.com
         pass: wveq psas beia iita  # NO SPACES
     to: jay.bhatt@cscgfm.com
-    from: upptime-monitor@gmail.com
+    from: bhattjay91@gmail.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
