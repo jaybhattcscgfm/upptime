@@ -7,7 +7,17 @@ sites:
     url: https://viewpoint.cscgfm.com
   - name: Investran Web API - Reference Data
     url: https://investranweb-liveuat-eu.fiscloudservices.com/api/referencedata/v1/swagger/index.html
-
+notifications:
+  email:
+    smtp:
+      host: smtp.gmail.com
+      port: 587
+      secure: false
+      auth:
+        user: bhattjay91@gmail.com
+        pass: wveq psas beia iita  # NO SPACES
+    to: jay.bhatt@cscgfm.com
+    from: upptime-monitor@gmail.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
