@@ -7,6 +7,8 @@ sites:
     url: https://viewpoint.cscgfm.com
   - name: Investran Web API - Reference Data
     url: https://investranweb-liveuat-eu.fiscloudservices.com/api/referencedata/v1/swagger/index.html
+  - name: Fake Site
+  url: https://thisdoesnotexist.example
 notifications:
   email:
     smtp:
