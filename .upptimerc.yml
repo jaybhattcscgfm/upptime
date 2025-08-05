@@ -9,17 +9,7 @@ sites:
     url: https://investranweb-liveuat-eu.fiscloudservices.com/api/referencedata/v1/swagger/index.html
   - name: Fake Site
     url: https://thisdoesnotexist.example
-notifications:
-  email:
-    smtp:
-      host: smtp.gmail.com
-      port: 587
-      secure: false
-      auth:
-        user: bhattjay91@gmail.com
-        pass: wveqpsasbeiaiita
-    to: jay.bhatt@cscgfm.com
-    from: bhattjay91@gmail.com
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
