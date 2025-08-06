@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 398,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
+    "time": 393,
+    "timeDay": 393,
+    "timeWeek": 393,
+    "timeMonth": 393,
+    "timeYear": 393,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/investranweb-liveuat-eu.fiscloudservices.com.ico",
     "slug": "investran-web-api-reference-data",
     "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "97.53%",
-    "time": 873,
-    "timeDay": 873,
-    "timeWeek": 873,
-    "timeMonth": 873,
-    "timeYear": 873,
+    "uptime": "97.54%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "97.54%",
+    "uptimeYear": "97.54%",
+    "time": 862,
+    "timeDay": 862,
+    "timeWeek": 862,
+    "timeMonth": 862,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2025-08-06": 11,
       "2025-08-05": 22
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-06": 1097,
+      "2025-08-06": 1101,
       "2025-08-05": 106
     }
   }
