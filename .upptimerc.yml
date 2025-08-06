@@ -12,6 +12,7 @@ sites:
 
 status-website:
   apiBaseUrl: https://jaybhattcscgfm.github.io/upptime
+  baseUrl: upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
