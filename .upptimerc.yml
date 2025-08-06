@@ -12,7 +12,6 @@ sites:
 
 site:
   status-website: true
-  baseUrl: /upptime
 
 
 # Upptime also supports notifications, assigning issues, and more
