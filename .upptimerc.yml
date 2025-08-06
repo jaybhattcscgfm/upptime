@@ -10,7 +10,8 @@ sites:
   - name: Fake Site
     url: https://thisdoesnotexist.example
 
-status-website: true
+status-website:
+  apiBaseUrl: https://jaybhattcscgfm.github.io/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
