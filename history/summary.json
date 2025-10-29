@@ -4,19 +4,19 @@
     "url": "https://viewpoint.cscgfm.com",
     "icon": "https://icons.duckduckgo.com/ip3/viewpoint.cscgfm.com.ico",
     "slug": "view-point-prod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 447,
-    "timeDay": 447,
-    "timeWeek": 384,
-    "timeMonth": 563,
-    "timeYear": 447,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "80.28%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.77%",
+    "time": 505,
+    "timeDay": 3885,
+    "timeWeek": 1251,
+    "timeMonth": 781,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-10-29": 0
+      "2025-10-29": 284
     }
   },
   {
