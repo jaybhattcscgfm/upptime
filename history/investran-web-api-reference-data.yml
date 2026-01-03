@@ -1,7 +1,7 @@
 url: https://investranweb-liveuat-eu.fiscloudservices.com/api/referencedata/v1/swagger/index.html
-status: down
-code: 403
-responseTime: 85
-lastUpdated: 2026-01-03T07:55:46.356Z
+status: up
+code: 200
+responseTime: 472
+lastUpdated: 2026-01-03T08:23:24.548Z
 startTime: 2025-08-05T20:04:42.322Z
 generator: Upptime <https://github.com/upptime/upptime>
